@@ -1,1 +1,1 @@
-# Deterministic Operational Investigation Models
+# Stochastic Models of Operational Research
